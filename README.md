@@ -17,10 +17,9 @@
 
 ### 测试效果
 
-- 服务端
-![](https://github.com/BroWuGou/note_UDP-CS-Model/blob/master/images/server.jpg)
+<div align="center">
+<img src="https://github.com/BroWuGou/note_UDP-CS-Model/blob/master/images/server.jpg" height="500" width="380" >
 
+<img src="https://github.com/BroWuGou/note_UDP-CS-Model/blob/master/images/client.jpg" height="500" width="250" >
 
-
-- 客户端
-![](https://github.com/BroWuGou/note_UDP-CS-Model/blob/master/images/client.jpg)
+ </div>
